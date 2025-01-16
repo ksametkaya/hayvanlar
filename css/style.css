@@ -1,0 +1,24 @@
+h1 {
+    color:red;
+    font-size: 40px;
+}
+
+h2 {
+    color:purple;
+    font-size: 35px;
+}
+
+h3{
+    color: orange;
+}
+h4 {
+    color: brown;
+}
+
+li {
+    list-style-position: inside;
+} 
+
+body {
+    text-align: center;
+}
